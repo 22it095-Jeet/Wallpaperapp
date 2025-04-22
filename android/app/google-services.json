@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071250722855",
+    "project_id": "wallrush-0908",
+    "storage_bucket": "wallrush-0908.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071250722855:android:ba40dcf333e0d777f2be02",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG9TlsT1C10KdU1cFQ-qGCpAnV8avIFYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
